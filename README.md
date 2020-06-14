@@ -1,5 +1,11 @@
-# TSChai
-TypeScript to Chaiscript transpiler. Write TypeScript and use Chaiscript
+# TSDarkstar
+TypeScript to Darkstar CScript transpiler. Write TypeScript and generate script code for games like Tribes or Starsiege.
+
+Forked from the fantastic TSChai by Alia5, which does the same thing but for Chaiscript: https://github.com/Alia5/TSChai
+
+My local fork of that project: https://github.com/matthew-rindel/TSChai/
+
+TODO - update code to reflect CScript
 
 Anothing other than smaller scripts in Chaiscript are hard to maintain and, if you have a lot of bindings, hard to write.
 Typescript has good IDE support and the powerful option of simply declaring your existing API and bindings using Typescript declaration files.
